@@ -1,0 +1,21 @@
+
+body {
+    background-image: URL('/img/imageparfum2.jpg');
+    background-size:100%;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bg-dark {
+    background-color:#6d0b70d1!important;
+}
+
+
+.titre1 {
+    color : white;
+}
